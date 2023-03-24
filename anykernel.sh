@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=MiyoK-fate運命 @exer
+kernel.string=Miyo Toku🐼 @exer
 do.devicecheck=1
 do.modules=0
 do.systemless=1
